@@ -1,0 +1,9 @@
+Intro to C++,Caleb Curry,9,32,6701,https://www.youtube.com/watch?v=OTroAxvRNbw&list=PL_c9BZzLwBRJVJsIfe97ey45V4LP_HXiG&index=4&ab_channel=CalebCurry
+What Are Pointers?,javidx9,41,54,13000,https://www.youtube.com/watch?v=iChalAKXffs&ab_channel=javidx9
+C++ Concepts Explained,Caleb Curry,8,30,2300,https://www.youtube.com/watch?v=i0B_0b3EKFs&list=PL_c9BZzLwBRJVJsIfe97ey45V4LP_HXiG&index=6&ab_channel=CalebCurry
+Forbidden C++,javidx9,33,10,26000,https://www.youtube.com/watch?v=j0_u26Vpb4w&ab_channel=javidx9
+Lambda Expressions,Derek Banas,25,20,768,https://www.youtube.com/watch?v=482weZjwVHY&ab_channel=DerekBanas
+Getting Started,Caleb Curry,6,26,2200,https://www.youtube.com/watch?v=aVqZ3lZD8Qk&list=PL_c9BZzLwBRJVJsIfe97ey45V4LP_HXiG&index=5&ab_channel=CalebCurry
+Install C++,Derek Banas,6,55,1500,https://www.youtube.com/watch?v=DamuE8TM3xo&ab_channel=DerekBanas
+Setup & Hello World,Mike Dane,4,10,213,https://www.youtube.com/watch?v=q4zIPCmPlqI&list=PLLAZ4kZ9dFpOSzRXG05goZMgsvXwDDL6g&index=5&ab_channel=MikeDane
+C++ Strings,Caleb Curry,9,58,160,https://www.youtube.com/watch?v=qUcHK3zVp1I&ab_channel=CalebCurry

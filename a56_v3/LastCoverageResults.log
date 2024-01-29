@@ -1,0 +1,22 @@
+[2021-04-21 08:21:24] [info] Start Program:
+Path:"F:\\a56_v3\\Debug\\a56_v3.exe"
+Arguments:
+Working directory: "F:\\a56_v3\\"
+Modules: Selected: F:\a56_v3\Debug\a56_v3.exe Excluded: 
+Sources: Selected: F:\a56_v3 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Stefana\AppData\Local\Temp\0qk5qox4.nkd 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-04-21 08:21:24] [info] Module: F:\a56_v3\Debug\a56_v3.exe is selected because it matches selected pattern: F:\a56_v3\Debug\a56_v3.exe
+[2021-04-21 08:24:49] [info] ----------------------------------------------------
+[2021-04-21 08:24:49] [info] Coverage binary generated in file: C:\Users\Stefana\AppData\Local\Temp\0qk5qox4.nkd
+[2021-04-21 08:24:49] [info] ----------------------------------------------------
+[2021-04-21 08:24:49] [error] Your program stop with error code: 1
